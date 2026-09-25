@@ -1,0 +1,5 @@
+{
+  "environment": "production",
+  "encryption_enabled": true,
+  "firewall_active": true
+}

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.venv-1/
+venv/
+env/
+ENV/
+
+# Logs & Simulation runtime outputs
+*.log
+simulation.log
+backend/simulation.log
+backups/
+backend/backups/
+
+# Node dependencies & builds
+node_modules/
+frontend/node_modules/
+frontend/build/
+build/
+dist/
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local

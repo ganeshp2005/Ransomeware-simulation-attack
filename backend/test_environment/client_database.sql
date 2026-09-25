@@ -1,0 +1,1 @@
+[HONEYPOT DECOY] CREATE TABLE clients (id INT, name VARCHAR(100), ssn VARCHAR(11));

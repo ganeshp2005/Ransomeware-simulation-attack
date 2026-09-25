@@ -1,0 +1,11 @@
+terminal 1
+
+    cd backend
+
+    python main.py
+
+terminal 2
+
+    cd frontend
+
+    npm start

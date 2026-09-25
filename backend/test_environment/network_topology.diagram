@@ -1,0 +1,1 @@
+VLAN-10 -> Firewall Gateway -> Core Switch -> Database Cluster
